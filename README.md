@@ -1,2 +1,2 @@
-# alx-higher_level_programming
-ALX Sprint 2, Python
+# alx-higher_level_programming, **Python**
+ALX Sprint 2

@@ -4,5 +4,4 @@ for first in range(0, 10):
         if first == 8 & second == 9:
             print("{}{}".format(first, second))
         else:
-            print("{}{}".format(first, second), end=", ")  
-    
+            print("{}{}".format(first, second), end=", ") 

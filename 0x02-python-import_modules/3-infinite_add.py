@@ -6,5 +6,5 @@ if __name__ == "__main__":
 sum = 0
 count = len(argv) - 1
 for i in range(1, count + 1):
-    sum += int(i)
-print (sum)
+    sum += int(argv[i])
+print("{}".format(sum))

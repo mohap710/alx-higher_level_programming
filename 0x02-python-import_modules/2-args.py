@@ -8,7 +8,7 @@ if count == 0:
     print("0 arguments.")
 if count == 1:
     print("1 argument:")
-else:
+if count > 1:
     print("{} arguments:".format(count))
 
 for i in range(1, count + 1):

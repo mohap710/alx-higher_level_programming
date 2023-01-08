@@ -17,4 +17,4 @@ a = int(argv[1])
 b = int(argv[3])
 
 result = ops[operator](a, b)
-print("{} {} {} = {}".format(a,operator,b,result))
+print("{} {} {} = {}".format(a, operator, b, result))

@@ -12,7 +12,7 @@ class Rectangle:
 
     number_of_instances = 0
     print_symbol = '#'
-
+    
     def __init__(self, width=0, height=0):
         """Args:
             width (int, optional): rectangle's Width. Defaults to 0.
@@ -92,7 +92,7 @@ class Rectangle:
             return ("")
         rect = ""
         for i in range(self.height):
-            rect += (self.print_symbol * self.width)
+            rect += (str(self.print_symbol) * self.width)
             if i != self.height - 1:
                 rect += "\n"
         return rect

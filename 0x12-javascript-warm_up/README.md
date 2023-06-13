@@ -1,6 +1,9 @@
 # 0x12-javascript-warm_up
+
+<<<<<<< HEAD
 <<<<<<< HEAD
 In this project, I learnt:
+
 - How to run a JavaScript script
 - How to create variables and constants
 - What are differences between var, const and let
@@ -16,5 +19,3 @@ In this project, I learnt:
 - What are the arithmetic operators and how to use them
 - How to manipulate dictionary
 - How to import a file
-=======
->>>>>>> parent of fe6ca02... Deferment process

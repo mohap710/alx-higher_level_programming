@@ -1,7 +1,5 @@
 # 0x12-javascript-warm_up
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 In this project, I learnt:
 
 - How to run a JavaScript script
